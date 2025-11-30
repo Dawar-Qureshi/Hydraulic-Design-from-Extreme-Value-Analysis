@@ -2,13 +2,13 @@
 
 ### Bayesian GEV-based Extreme Value Analysis applied to stormwater and hydraulic design.
 
----
+
 
 ## Overview
 
 This project explores how probabilistic rainfall modeling can support practical hydraulic design. Using the Generalized Extreme Value (GEV) distribution and Bayesian inference, I estimated rainfall return levels for different design periods (such as 10-, 50-, and 100-year events).  The goal is to show how uncertainty in extreme rainfall can be quantified and integrated into the design of **stormwater drainage systems** and other hydraulic structures.  This approach provides a more resilient and data-driven alternative to traditional deterministic design methods.
 
----
+
 
 ## Methodology
 
@@ -31,7 +31,7 @@ This project explores how probabilistic rainfall modeling can support practical 
    - The estimated rainfall intensities were applied to the design of stormwater pipes.
    - The workflow demonstrates how probabilistic rainfall analysis can guide hydraulic design under uncertainty.
 
----
+
 
 ## Tools and Libraries
 
@@ -42,7 +42,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 - **SciPy** – statistical analysis  
 - **Jupyter Notebook** – workflow and documentation  
 
----
+
 
 ## Example Outputs
 
@@ -51,7 +51,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 - Design rainfall intensities for different return periods  
 - Example pipe sizing calculations using the probabilistic rainfall data
 
----
+
 
 
 ## Applications
@@ -61,7 +61,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 - Flood risk assessment  
 - Climate resilience and uncertainty analysis in hydrology  
 
----
+
 
 ## References
 
@@ -69,7 +69,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 - Beven, K. (2012). *Rainfall–Runoff Modelling: The Primer.* Wiley.  
 - PyMC Documentation: [https://www.pymc.io](https://www.pymc.io)
 
----
+
 
 ## Author
 
@@ -77,7 +77,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 M.Sc. Hydro Science and Engineering  
 Research interests: Design & operation of hydraulic infrastructure, Flood risk modelling, CFD applications in hydraulic engineering.   
 
----
+
 
 ## License
 
