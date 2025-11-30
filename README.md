@@ -1,4 +1,4 @@
-# 💧 Hydraulic Design from Extreme Value Analysis
+# Hydraulic Design from Extreme Value Analysis
 
 ### Bayesian GEV-based Extreme Value Analysis applied to stormwater and hydraulic design.
 
@@ -6,11 +6,7 @@
 
 ## Overview
 
-This project explores how probabilistic rainfall modeling can support practical hydraulic design.  
-Using the **Generalized Extreme Value (GEV)** distribution and **Bayesian inference**, I estimated rainfall return levels for different design periods (such as 10-, 50-, and 100-year events).  
-
-The goal is to show how uncertainty in extreme rainfall can be quantified and integrated into the design of **stormwater drainage systems** and other hydraulic structures.  
-This approach provides a more resilient and data-driven alternative to traditional deterministic design methods.
+This project explores how probabilistic rainfall modeling can support practical hydraulic design. Using the Generalized Extreme Value (GEV) distribution and Bayesian inference, I estimated rainfall return levels for different design periods (such as 10-, 50-, and 100-year events).  The goal is to show how uncertainty in extreme rainfall can be quantified and integrated into the design of **stormwater drainage systems** and other hydraulic structures.  This approach provides a more resilient and data-driven alternative to traditional deterministic design methods.
 
 ---
 
@@ -53,9 +49,7 @@ This approach provides a more resilient and data-driven alternative to tradition
 - Posterior distributions of GEV parameters  
 - Rainfall return level curves with 95% credible intervals  
 - Design rainfall intensities for different return periods  
-- Example pipe sizing calculations using the probabilistic rainfall data  
-
-(Plots and results will be available in the `results/` folder.)
+- Example pipe sizing calculations using the probabilistic rainfall data
 
 ---
 
