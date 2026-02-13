@@ -75,7 +75,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 
 **Dawar Qureshi**  
 M.Sc. Hydro Science and Engineering  
-Research interests: Design & operation of hydraulic infrastructure, Flood risk modelling, CFD applications in hydraulic engineering.   
+Research interests: Design & operation of hydraulic infrastructure, particularly resilient drainage systems, Flood risk modelling, CFD applications in hydraulic engineering.   
 
 
 
