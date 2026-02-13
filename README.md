@@ -56,7 +56,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 
 ## Applications
 
-- Stormwater and sewer system design  
+- Drainage system design  
 - Culvert and open channel design  
 - Flood risk assessment  
 - Climate resilience and uncertainty analysis in hydrology  
