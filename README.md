@@ -15,6 +15,7 @@ This project explores how probabilistic rainfall modeling can support practical 
 1. **Data Preparation**
    - Historical rainfall data was collected and processed to extract annual maximum rainfall (AMR) values.
    - The data was checked for trends, missing values, and consistency.
+   - Similar approach was followed to process the extreme rainfall series from three different climate models under the RCP8.5 scenario. 
 
 2. **Extreme Value Modeling**
    - The AMR series was fitted to a GEV distribution.
